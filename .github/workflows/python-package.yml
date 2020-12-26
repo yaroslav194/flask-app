@@ -16,4 +16,4 @@ steps:
       uses: docker/build-push-action@v2
       with:
         push: true
-        tags: varik194/flask-app:latest
+        tags: varik194/flask2:latest
